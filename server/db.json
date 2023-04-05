@@ -1,0 +1,69 @@
+{
+"contacts":[
+    {
+        "id":1,    
+        "name":"mary",    
+        "company":"suriya",    
+        "email":"abc@gmail.com",    
+        "title":"contact info",   
+        "mobile":"9824676477",    
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe82O8dx65fsjP3SNJaedZm3H29veil8dGUA&usqp=CAU" ,
+    "groupId":"2"  },
+    {
+        "id":2,    
+        "name":"Ani",    
+        "company":"Gr",    
+        "email":"bac@gmail.com",    
+        "title":"contact",   
+        "mobile":"987453477",    
+        "photo":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41Brp3Gs6sL._SY355_.jpg" ,
+    "groupId":"3"  },
+    {
+        "id":3,    
+        "name":"smith",    
+        "company":"Avali",    
+        "email":"cba@gmail.com",    
+        "title":"Info manager",   
+        "mobile":"8246776477",    
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLi1U_bRFzGiGCyzenEsB1OSqUmqYbkfFYdD5Jw7s496rIkMeQUYQoIRky1Yg4aDYmYbs&usqp=CAU" ,
+    "groupId":"4"  },
+
+    {
+        "id":4,    
+        "name":"Anil",    
+        "company":"Htd Limited",    
+        "email":"anil@gmail.com",    
+        "title":"Management ",   
+        "mobile":"987453477",    
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0qjtY7AX9SDORnV_L7WzTkV5udn6d1ns-Cft3DJn8eMsHH-s6V2ctWjOeOhlc1N0wwkE&usqp=CAU" ,
+    "groupId":"4"  }
+
+],
+"groups":[
+
+    {
+        "id":"1",
+        "name":"collegue"
+    },
+    {
+        "id":"2",
+        "name":"Friend"
+    },
+    {
+        "id":"3",
+        "name":"Social"
+    },
+    {
+        "id":"4",
+        "name":"Service"
+    },
+    {
+        "id":"5",
+        "name":"Collage"
+    },
+    {
+        "id":"6",
+        "name":"Family"
+    }
+]
+}
